@@ -1,0 +1,16 @@
+.type1 {
+    color: green; font-family: Gothic Medium; background-color: rgb(148, 148, 241)
+}
+
+.type2 {
+    text-decoration:underline;
+}
+.point {
+    list-style-type: disc;
+}
+.p {
+    list-style-type: none ;
+}
+.copyright {
+    font-style: italic;
+}
